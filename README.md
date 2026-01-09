@@ -7,15 +7,7 @@ A hotel booking site with HTML, CSS, PHP and a smidge of JavaScript.
 
 # Features
 
-  ## Live Booking logic:
- <img width="1249" height="733" alt="image" src="https://github.com/user-attachments/assets/f7b7ac3a-dfac-471f-b4f9-6c9262da19c9" />
 
-Does not allow existing bookings to be made.
-
-## Login functionality:
-<img width="1916" height="934" alt="image" src="https://github.com/user-attachments/assets/ea0c66a0-b076-4e30-ab75-57e6ce9c57d6" />
-
-I created a Session to check the usernames and passwords given against database.
 
 
 ## Database connectiviity
@@ -34,7 +26,18 @@ Ensured consistent theme and used bootstrap carousel for the main page to displa
 Added a dashboard and feature to change pfp.
 
 
-How to use:
+Does not allow existing bookings to be made.
+
+## Login functionality:
+<img width="1916" height="934" alt="image" src="https://github.com/user-attachments/assets/ea0c66a0-b076-4e30-ab75-57e6ce9c57d6" />
+
+## Live Booking logic:
+ <img width="1249" height="733" alt="image" src="https://github.com/user-attachments/assets/f7b7ac3a-dfac-471f-b4f9-6c9262da19c9" />
+
+
+I created a Session to check the usernames and passwords given against database.
+
+# How to use:
 1) Download XAMPP
 2) Fork and clone repo
 3) Turn on mySQL and apache <img width="816" height="494" alt="image" src="https://github.com/user-attachments/assets/ad5ca883-d46b-493a-ba84-0a06743d437e" /> (make sure that in mysql SQ
