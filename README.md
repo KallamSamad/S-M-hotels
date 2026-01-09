@@ -1,5 +1,8 @@
 #About
 
+<img width="1909" height="992" alt="image" src="https://github.com/user-attachments/assets/44e47277-f6ee-4db7-bda8-c137166549d9" />
+
+
 A hotel booking site with HTML, CSS, PHP and a smidge of JavaScript. 
 
 #Features
@@ -9,17 +12,17 @@ A hotel booking site with HTML, CSS, PHP and a smidge of JavaScript.
 
 Does not allow existing bookings to be made.
 
--## Login functionality:
+ ## Login functionality:
 <img width="1916" height="934" alt="image" src="https://github.com/user-attachments/assets/ea0c66a0-b076-4e30-ab75-57e6ce9c57d6" />
 
 I created a Session to check the usernames and passwords given against database.
 
 
--## Database connectiviity
+ ## Database connectiviity
 <img width="1919" height="694" alt="image" src="https://github.com/user-attachments/assets/15fb506a-ac67-402d-9a2e-c09e48314333" />
 Dynamicaly displays database tables as HTML tables.
 
-- ## Bootstrap design
+  ## Bootstrap design
 
 <img width="1896" height="936" alt="image" src="https://github.com/user-attachments/assets/6ffa7106-e857-458b-b60c-649654e6d82f" />
 Ensured consistent theme and used bootstrap carousel for the main page to display the rooms in the website.
