@@ -7,7 +7,7 @@ A hotel booking site with HTML, CSS, PHP and a smidge of JavaScript.
 
 # Features
 
-- ##Live Booking logic:
+  ## Live Booking logic:
  <img width="1249" height="733" alt="image" src="https://github.com/user-attachments/assets/f7b7ac3a-dfac-471f-b4f9-6c9262da19c9" />
 
 Does not allow existing bookings to be made.
