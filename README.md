@@ -1,6 +1,6 @@
 #About
 
-<img width="1909" height="992" alt="image" src="https://github.com/user-attachments/assets/44e47277-f6ee-4db7-bda8-c137166549d9" />
+<img width="1896" height="936" alt="image" src="https://github.com/user-attachments/assets/6ffa7106-e857-458b-b60c-649654e6d82f" />
 
 
 A hotel booking site with HTML, CSS, PHP and a smidge of JavaScript. 
@@ -27,7 +27,7 @@ Dynamicaly displays database tables as HTML tables.
 <img width="1896" height="936" alt="image" src="https://github.com/user-attachments/assets/6ffa7106-e857-458b-b60c-649654e6d82f" />
 Ensured consistent theme and used bootstrap carousel for the main page to display the rooms in the website.
 
-- ##Simple User dashbaord
+ ##Simple User dashbaord
 
 
 <img width="1909" height="992" alt="image" src="https://github.com/user-attachments/assets/44e47277-f6ee-4db7-bda8-c137166549d9" />
